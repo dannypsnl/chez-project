@@ -9,3 +9,4 @@ run: build
 	@scheme --script app.ss
 clean:
 	@rm *.so
+	@rm *.boot
